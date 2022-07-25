@@ -13,9 +13,9 @@ The Project has been developed to create new piece of music from Piano Notes usi
 * **code.ipynb** : This is the main file of code where we have built , trained and tested the model.
 * **MOD** : This directory contains optimizer, metrics, and weights of our trained model.
 * **AI_composed_music.mid** : This is a music file generated with the predicted output notes.
-* **SOC| Learning Project | Musify | Aryan** : This is the report and the documentation of my project.
-* **Musify** : This is a power point presentation which describes the idea , code and learning behinf the project .
-* **MusifyVideo** : This is the video which I have made for the project describing the project .
+* **SOC| Learning Project | Musify | Aryan.docx** : This is the report and the documentation of my project.
+* **Musify.pptx** : This is a power point presentation which describes the idea , code and learning behinf the project .
+* **MusifyVideo.webm** : This is the video which I have made for the project describing the project .
 
 ## Steps
 Follow the steps and compose music using AI
