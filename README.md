@@ -10,7 +10,7 @@ The Project has been developed to create new piece of music from Piano Notes usi
 
 ## File Structure
 * **Midi Files** : This is the dataset folder containing various midi(music) files of different composers.
-* **code** : This is the main file of code where we have built , trained and tested the model.
+* **code.ipynb** : This is the main file of code where we have built , trained and tested the model.
 * **MOD** : This directory contains optimizer, metrics, and weights of our trained model.
 * **AI_composed_music.mid** : This is a music file generated with the predicted output notes.
 * **SOC| Learning Project | Musify | Aryan** : This is the report and the documentation of my project.
